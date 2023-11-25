@@ -4,7 +4,7 @@
 
 
 
-### <div align="center">👋 Hello there! I'm Ayman Elomari, a passionate beginner in the world of coding and software development.</div>  
+### <div align="center">👋 Hello there! I'm Zakaria Chtaibi, a passionate beginner in the world of coding and software development.</div>  
   
 
 - 🌱 I'm currently exploring various programming languages and technologies to expand my knowledge and skills. I believe in the power of continuous learning and growth.  

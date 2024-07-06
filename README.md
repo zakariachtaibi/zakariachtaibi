@@ -109,8 +109,8 @@
 ## Projects
 
 
-- [pre-pool-1337](https://github.com/siil3omary/pre-pool-1337)
-- [alx-pre_course](https://github.com/siil3omary/pre-pool-1337)
+- [graphic-mlx-1337](git@github.com:zakariachtaibi/fract-ol.git)
+- [signals-unix-1337](git@github.com:zakariachtaibi/Minitalk.git)
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qotndzbbpu5hrnqmpgpcd6mbxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  

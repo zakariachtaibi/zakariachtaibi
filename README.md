@@ -29,7 +29,7 @@ Software Engineering student at **1337 Coding School (UM6P · 42 Network)** with
 
 <div align="center">
 
-[![Zakaria's 42 stats](https://badge.mediaplus.ma/binary/YOUR_LOGIN)](https://profile.intra.42.fr/users/YOUR_LOGIN)
+[![Zakaria's 42 stats](https://badge.mediaplus.ma/binary/zchtaibi)](https://profile.intra.42.fr/users/zchtaibi)
 
 </div>
 

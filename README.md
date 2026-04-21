@@ -2,8 +2,8 @@
   <img src="https://github.com/zchtaibi/POOL-1337-42/blob/main/DAYS/1772547577827.jpeg?raw=true" width="100%" alt="Banner" />
 </div>
 
-# 👨‍💻 Ayman Elomari
-### Full Stack Software Engineer | 42 Network (1337)
+# 👨‍💻 Zakaria Chtaibi
+### Full Stack && Software Engineer | 42 Network (1337)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Specialist;High-Concurrency+Systems;Go+%2B+NestJS+%2B+TypeScript;Docker+%26+Microservices" alt="Typing SVG" />

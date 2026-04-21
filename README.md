@@ -25,6 +25,16 @@ Software Engineering student at **1337 Coding School (UM6P · 42 Network)** with
 
 ---
 
+## `> ./42_profile.sh`
+
+<div align="center">
+
+[![Zakaria's 42 stats](https://badge.mediaplus.ma/binary/YOUR_LOGIN)](https://profile.intra.42.fr/users/YOUR_LOGIN)
+
+</div>
+
+---
+
 ## `> tech --list`
 
 ### Backend & Systems
@@ -60,16 +70,6 @@ Software Engineering student at **1337 Coding School (UM6P · 42 Network)** with
 
 Acting as **Product Owner** for a 4-member team. Architected multi-user drawing synchronization and real-time conflict resolution across concurrent sessions. Handles live state management at scale.
 
----
-
-### 🔴 [CLASSIFIED] — Stealth Project
-> **Active Development · ETA: Undisclosed**
-
-`????` `????` `????`
-
-> *Something is being built. Stay tuned.*
-
----
 
 ### ⛓ Voting DApp — Decentralized Ethereum Voting System
 > **2025**

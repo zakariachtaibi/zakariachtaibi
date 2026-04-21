@@ -1,133 +1,77 @@
-<div align="center"> 
-<img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/img/robert-pattinson-batman.gif?raw=true" align="center" style="width: 500%" />
-</div>  
-
-
-
-### <div align="center">👋 Hello there! I'm Zakaria Chtaibi, a passionate beginner in the world of coding and software development.</div>  
-  
-
-- 🌱 I'm currently exploring various programming languages and technologies to expand my knowledge and skills. I believe in the power of continuous learning and growth.  
-  
-
-- 💻 My main areas of interest include web development, application development, and open-source projects. I enjoy building intuitive and user-friendly interfaces, as well as diving into the backend to create robust solutions.  
-  
-
-- 🎓 I'm constantly seeking new opportunities to enhance my skills through hands-on projects and collaboration with other developers. I'm excited to contribute to meaningful projects that make a positive impact on people's lives.  
-  
-
-- 🔧 Some of the technologies I'm currently working with include HTML, CSS, JavaScript, C, PHP and Python.
-  
-  
-
-- 🌟 Besides coding, I'm a firm believer in teamwork and collaboration. I enjoy working in an environment that encourages knowledge-sharing and supports personal and professional growth.  
-  
-
-- 📫 Feel free to reach out to me if you have any questions, suggestions, or if you're interested in collaborating on a project. I'm always open to new opportunities and connecting with fellow developers.  
-  
-
-- Happy coding! 🚀  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/zakariachtaibi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/siil3omary" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/siil3omary" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Zakaria Chtaibi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/chtaibizakria" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/siil3omary" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://github.com/zchtaibi/POOL-1337-42/blob/main/DAYS/1772547577827.jpeg?raw=true" width="100%" alt="Banner" />
+</div>
 
-<br/>  
-
-
-## Github Stats  
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/zchtaibi" alt="zchtaibi's 42 stats" /></a>
-
-<br/>  
-
-## Projects
-
-
-- [graphic-mlx-1337](git@github.com:zakariachtaibi/fract-ol.git)
-- [signals-unix-1337](git@github.com:zakariachtaibi/Minitalk.git)
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qotndzbbpu5hrnqmpgpcd6mbxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
-
-<br/>  
-
+# 👨‍💻 Ayman Elomari
+### Full Stack Software Engineer | 42 Network (1337)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zakariachtaibi&&style=flat-square" align="center" />
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Specialist;High-Concurrency+Systems;Go+%2B+NestJS+%2B+TypeScript;Docker+%26+Microservices" alt="Typing SVG" />
+</div>
 
-   
+---
 
-<br/>  
+## ⚡ About Me
 
+I am a Software Engineering student at **1337 Coding School** and **UM6P**, recently validated the **Common Core**. I specialize in building scalable, high-concurrency applications and low-level systems. My focus is on mastering every detail—from the byte-level logic of C++ to the distributed architecture of modern web apps.
 
-<br />
+- 🛠️ **Currently Building**: A high-performance collaborative whiteboard (Transcendence) using `tldraw` and microservices.
+- 🏗️ **Core Stack**: Go, NestJS, React, TypeScript, and PostgreSQL (Prisma).
+- 🐧 **Systems & DevOps**: Proficient in Docker orchestration, Nginx, and Linux Kernel basics.
 
-----
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Backend & Systems
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend & Design
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 42 School Progress & Stats
+
+<div align="center">
+
+  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)]()
+
+</div>
+
+---
+
+## 🎯 Featured Project: Transcendence
+> **A real-time collaborative whiteboard engine.**
+- **Tech**: NestJS, Go, WebSockets, tldraw, Docker.
+- **Goal**: Mastering data synchronization and high-concurrency backend logic.
+- [View Repository](https://github.com/zakariachtaibi) ---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/zakaria-chtaibi-564512207">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zakaria.chtaibi3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zakariachtaibi&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <p><i>"The best way to predict the future is to code it."</i></p>
+</div>

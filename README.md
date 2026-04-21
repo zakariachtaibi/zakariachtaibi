@@ -1,7 +1,7 @@
 <div align="center">
 
 # `ZAKARIA CHTAIBI`
-### Software Engineer · Systems & Web · 42 Network (1337 | UM6P)
+### Software Engineer · Full Stack & Systems · 42 Network (1337 | UM6P)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FFB4&center=true&vCenter=true&width=500&lines=Systems+%2B+Real-Time+Web;Next.js+%7C+TypeScript+%7C+C%2B%2B;WebSockets+%7C+Docker+%7C+Linux;Open+Source+Contributor;Available+for+Internship)](https://git.io/typing-svg)
 

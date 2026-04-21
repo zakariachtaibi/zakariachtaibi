@@ -63,7 +63,7 @@ Software Engineering student at **1337 Coding School (UM6P · 42 Network)** with
 
 ## `> projects --featured`
 
-### 🟢 Mind-Meld — Real-Time Collaborative Whiteboard
+### 🟢 WeDraw — Real-Time Collaborative Whiteboard
 > **ft_transcendence · 42 Network · Jan 2026 – Present**
 
 `Next.js` `TypeScript` `WebSockets` `tldraw` `Docker`
